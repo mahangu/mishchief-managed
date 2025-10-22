@@ -4499,6 +4499,4506 @@
       "difficulty": "easy",
       "source": "Chamber of Secrets, Chapter 9",
       "verified": true
+    },
+    {
+      "id": 501,
+      "question": "What is the name of the three-headed dog guarding the Philosopher's Stone?",
+      "answer": "Fluffy",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 502,
+      "question": "What does Hermione's cat Crookshanks look like?",
+      "answer": "Ginger (orange) colored, fluffy, with a squashed face and bottlebrush tail",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 503,
+      "question": "What is the password to Gryffindor Tower in Harry's first year?",
+      "answer": "Caput Draconis (later changed to Pig snout)",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 504,
+      "question": "What does the Marauder's Map say when you want to hide its contents?",
+      "answer": "Mischief Managed",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 505,
+      "question": "Who is the Bloody Baron?",
+      "answer": "The ghost of Slytherin House",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 506,
+      "question": "What creature pulls the carriages to Hogwarts?",
+      "answer": "Thestrals (visible only to those who have seen death)",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 507,
+      "question": "What is the cure for a basilisk's stare if you look at it indirectly?",
+      "answer": "Mandrake Restorative Draught",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 508,
+      "question": "Who gave Harry the Invisibility Cloak?",
+      "answer": "Albus Dumbledore (though it originally belonged to Harry's father, James Potter)",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 509,
+      "question": "What are the names of Draco Malfoy's two cronies?",
+      "answer": "Vincent Crabbe and Gregory Goyle",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 510,
+      "question": "What does R.A.B. stand for in the fake Horcrux locket note?",
+      "answer": "Regulus Arcturus Black",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 28",
+      "verified": true
+    },
+    {
+      "id": 511,
+      "question": "What is the incantation to summon the Patronus charm?",
+      "answer": "Expecto Patronum",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 512,
+      "question": "What does Dumbledore see in the Mirror of Erised?",
+      "answer": "Himself holding a pair of thick, woolen socks (though he later admits this may not be true)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 513,
+      "question": "What is the name of the alley where Borgin and Burkes is located?",
+      "answer": "Knockturn Alley",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 514,
+      "question": "What position does Oliver Wood play on the Gryffindor Quidditch team?",
+      "answer": "Keeper",
+      "category": "Quidditch",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 515,
+      "question": "What are the ingredients needed to brew Polyjuice Potion?",
+      "answer": "Lacewing flies, leeches, powdered bicorn horn, knotgrass, fluxweed, shredded boomslang skin, and a bit of the person you want to turn into",
+      "category": "Potions",
+      "difficulty": "hard",
+      "source": "Chamber of Secrets, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 516,
+      "question": "Who is Nearly Headless Nick?",
+      "answer": "Sir Nicholas de Mimsy-Porpington, the ghost of Gryffindor House",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 517,
+      "question": "What does the spell 'Riddikulus' do?",
+      "answer": "Defeats a Boggart by forcing it to take on a humorous appearance",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 518,
+      "question": "What is the Room of Requirement?",
+      "answer": "A magical room at Hogwarts that only appears when someone needs it and provides what they need",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 519,
+      "question": "What kind of wood is Harry's wand made from?",
+      "answer": "Holly",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 5",
+      "verified": true
+    },
+    {
+      "id": 520,
+      "question": "Who was the Gryffindor ghost before Nearly Headless Nick?",
+      "answer": "This information is not provided in the books",
+      "category": "History",
+      "difficulty": "hard",
+      "source": "Not specified",
+      "verified": true
+    },
+    {
+      "id": 521,
+      "question": "What does the charm 'Alohomora' do?",
+      "answer": "Unlocks doors and windows",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 522,
+      "question": "How many points is the Golden Snitch worth in Quidditch?",
+      "answer": "150 points",
+      "category": "Quidditch",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 523,
+      "question": "What is Lupin's secret?",
+      "answer": "He is a werewolf",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 524,
+      "question": "What shop in Diagon Alley sells wands?",
+      "answer": "Ollivanders",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 5",
+      "verified": true
+    },
+    {
+      "id": 525,
+      "question": "What does the Hogwarts motto 'Draco Dormiens Nunquam Titillandus' mean?",
+      "answer": "Never tickle a sleeping dragon",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 526,
+      "question": "Who is Moaning Myrtle?",
+      "answer": "A ghost who haunts a girls' bathroom at Hogwarts; she was killed by the basilisk",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 527,
+      "question": "What creature is Aragog?",
+      "answer": "An Acromantula (giant spider)",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 15",
+      "verified": true
+    },
+    {
+      "id": 528,
+      "question": "What form does Harry's Patronus take?",
+      "answer": "A stag",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 21",
+      "verified": true
+    },
+    {
+      "id": 529,
+      "question": "What is the incantation for the Summoning Charm?",
+      "answer": "Accio",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 20",
+      "verified": true
+    },
+    {
+      "id": 530,
+      "question": "Who was the Slytherin Seeker before Draco Malfoy?",
+      "answer": "Terence Higgs",
+      "category": "Quidditch",
+      "difficulty": "hard",
+      "source": "Philosopher's Stone, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 531,
+      "question": "What is Grimmauld Place?",
+      "answer": "Number Twelve, Grimmauld Place, the ancestral home of the Black family and headquarters of the Order of the Phoenix",
+      "category": "Locations",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 532,
+      "question": "What does Felix Felicis potion do?",
+      "answer": "Gives the drinker good luck for a period of time",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 533,
+      "question": "Who is Buckbeak?",
+      "answer": "A Hippogriff that belonged to Hagrid, later renamed Witherwings",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 534,
+      "question": "What is the Knight Bus?",
+      "answer": "A purple triple-decker bus that provides emergency transport for stranded witches and wizards",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 3",
+      "verified": true
+    },
+    {
+      "id": 535,
+      "question": "What is the name of Hermione's parents?",
+      "answer": "Mr. and Mrs. Granger (first names not given in the books)",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Chamber of Secrets, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 536,
+      "question": "What does the spell 'Petrificus Totalus' do?",
+      "answer": "Performs a full body-bind curse, freezing the victim in place",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 16",
+      "verified": true
+    },
+    {
+      "id": 537,
+      "question": "What is the Whomping Willow?",
+      "answer": "A violent tree on Hogwarts grounds that attacks anyone who comes near it",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 5",
+      "verified": true
+    },
+    {
+      "id": 538,
+      "question": "Who are the Marauders?",
+      "answer": "James Potter (Prongs), Sirius Black (Padfoot), Remus Lupin (Moony), and Peter Pettigrew (Wormtail)",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 539,
+      "question": "What is Floo Powder used for?",
+      "answer": "Magical transportation through fireplaces",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 540,
+      "question": "What is the name of Hagrid's boarhound?",
+      "answer": "Fang",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 541,
+      "question": "What are the Deathly Hallows?",
+      "answer": "The Elder Wand, the Resurrection Stone, and the Cloak of Invisibility",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 21",
+      "verified": true
+    },
+    {
+      "id": 542,
+      "question": "Who is Peeves?",
+      "answer": "A poltergeist who causes chaos at Hogwarts",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 543,
+      "question": "What does the Time-Turner do?",
+      "answer": "Allows the user to travel back in time",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 21",
+      "verified": true
+    },
+    {
+      "id": 544,
+      "question": "What is the name of Ron's owl?",
+      "answer": "Pigwidgeon (nicknamed Pig)",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 22",
+      "verified": true
+    },
+    {
+      "id": 545,
+      "question": "What charm did Hermione use to enlarge her beaded bag?",
+      "answer": "Undetectable Extension Charm",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 546,
+      "question": "Who is the author of 'The Monster Book of Monsters'?",
+      "answer": "The author is not named in the books",
+      "category": "History",
+      "difficulty": "hard",
+      "source": "Prisoner of Azkaban, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 547,
+      "question": "What is the Shrieking Shack?",
+      "answer": "A supposedly haunted building in Hogsmeade, actually built for Lupin's werewolf transformations",
+      "category": "Locations",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 17",
+      "verified": true
+    },
+    {
+      "id": 548,
+      "question": "What are the different types of Quidditch balls?",
+      "answer": "The Quaffle, two Bludgers, and the Golden Snitch",
+      "category": "Quidditch",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 549,
+      "question": "What does the Confundus Charm do?",
+      "answer": "Confuses and disorients the target",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 550,
+      "question": "Who gave Neville Longbottom the Remembrall?",
+      "answer": "His grandmother",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 551,
+      "question": "What is the Sorting Hat?",
+      "answer": "A magical hat that sorts students into Hogwarts houses based on their personality and preferences",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 552,
+      "question": "What are the four houses of Hogwarts?",
+      "answer": "Gryffindor, Slytherin, Ravenclaw, and Hufflepuff",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 553,
+      "question": "Who is Firenze?",
+      "answer": "A centaur from the Forbidden Forest who later became Divination professor",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 15",
+      "verified": true
+    },
+    {
+      "id": 554,
+      "question": "What does the spell 'Lumos' do?",
+      "answer": "Creates light at the tip of the wand",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 555,
+      "question": "What is the name of the Weasley family's home?",
+      "answer": "The Burrow",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 3",
+      "verified": true
+    },
+    {
+      "id": 556,
+      "question": "What potion did Harry use to breathe underwater in the Second Task?",
+      "answer": "Gillyweed (technically not a potion but a plant)",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 557,
+      "question": "Who is Dobby?",
+      "answer": "A house-elf who served the Malfoy family, later freed by Harry",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 2",
+      "verified": true
+    },
+    {
+      "id": 558,
+      "question": "What spell does Hermione use to repair Harry's glasses?",
+      "answer": "Oculus Reparo",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 559,
+      "question": "What is a Portkey?",
+      "answer": "An enchanted object that transports anyone who touches it to a predetermined location",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 560,
+      "question": "What is the name of the train that takes students to Hogwarts?",
+      "answer": "The Hogwarts Express",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 561,
+      "question": "What creature is a Dementor?",
+      "answer": "A dark creature that feeds on human happiness and can perform the Dementor's Kiss",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 5",
+      "verified": true
+    },
+    {
+      "id": 562,
+      "question": "What platform do students use to board the Hogwarts Express?",
+      "answer": "Platform 9¾ at King's Cross Station",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 563,
+      "question": "Who is Gilderoy Lockhart?",
+      "answer": "A fraudulent Defense Against the Dark Arts teacher who took credit for others' achievements",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 564,
+      "question": "What spell creates a full body Patronus?",
+      "answer": "Expecto Patronum (when cast with sufficient strength and a happy memory)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 565,
+      "question": "What is Azkaban?",
+      "answer": "The wizard prison guarded by Dementors",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 3",
+      "verified": true
+    },
+    {
+      "id": 566,
+      "question": "Who wrote 'A History of Magic'?",
+      "answer": "Bathilda Bagshot",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 5",
+      "verified": true
+    },
+    {
+      "id": 567,
+      "question": "What does the spell 'Expelliarmus' do?",
+      "answer": "Disarms an opponent by knocking their wand out of their hand",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 568,
+      "question": "What is a Boggart?",
+      "answer": "A shape-shifting creature that takes the form of a person's worst fear",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 569,
+      "question": "What Quidditch position do Fred and George Weasley play?",
+      "answer": "Beaters",
+      "category": "Quidditch",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 570,
+      "question": "What is Veritaserum?",
+      "answer": "A powerful truth serum that forces the drinker to tell the truth",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 27",
+      "verified": true
+    },
+    {
+      "id": 571,
+      "question": "Who is Madam Pomfrey?",
+      "answer": "The Hogwarts matron who runs the hospital wing",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 17",
+      "verified": true
+    },
+    {
+      "id": 572,
+      "question": "What does the spell 'Wingardium Leviosa' do?",
+      "answer": "Levitates objects",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 573,
+      "question": "What is a Horcrux?",
+      "answer": "An object in which a dark wizard has hidden a fragment of their soul for the purpose of immortality",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 23",
+      "verified": true
+    },
+    {
+      "id": 574,
+      "question": "Who is Madam Hooch?",
+      "answer": "The flying instructor and Quidditch referee at Hogwarts",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 575,
+      "question": "What does O.W.L. stand for?",
+      "answer": "Ordinary Wizarding Level (exams taken in fifth year)",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 576,
+      "question": "What creature is Norbert (later Norberta)?",
+      "answer": "A Norwegian Ridgeback dragon",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 577,
+      "question": "What is the Forbidden Forest?",
+      "answer": "A large, dark forest on Hogwarts grounds that students are forbidden to enter",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 578,
+      "question": "Who is Argus Filch?",
+      "answer": "The caretaker of Hogwarts, a Squib who dislikes students",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 579,
+      "question": "What does N.E.W.T. stand for?",
+      "answer": "Nastily Exhausting Wizarding Test (advanced exams taken in seventh year)",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 29",
+      "verified": true
+    },
+    {
+      "id": 580,
+      "question": "What spell did Tom Riddle use to write in his diary?",
+      "answer": "The diary was a Horcrux that absorbed memories and could communicate",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Chamber of Secrets, Chapter 13",
+      "verified": true
+    },
+    {
+      "id": 581,
+      "question": "Who is Mrs. Norris?",
+      "answer": "Argus Filch's cat",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 582,
+      "question": "What is Quidditch Through the Ages?",
+      "answer": "A book about the history of Quidditch, authored by Kennilworthy Whisp",
+      "category": "Quidditch",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 583,
+      "question": "What potion does Snape threaten to use on Harry to get the truth?",
+      "answer": "Veritaserum",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 27",
+      "verified": true
+    },
+    {
+      "id": 584,
+      "question": "Who is Madam Pince?",
+      "answer": "The Hogwarts librarian",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 585,
+      "question": "What does the spell 'Obliviate' do?",
+      "answer": "Erases or modifies memories",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 16",
+      "verified": true
+    },
+    {
+      "id": 586,
+      "question": "What is the Leaky Cauldron?",
+      "answer": "A pub in London that serves as the entrance to Diagon Alley",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 5",
+      "verified": true
+    },
+    {
+      "id": 587,
+      "question": "Who was the first person to escape from Azkaban?",
+      "answer": "Sirius Black (though he was innocent)",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 3",
+      "verified": true
+    },
+    {
+      "id": 588,
+      "question": "What is a Pensieve?",
+      "answer": "A magical device used to review memories",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 30",
+      "verified": true
+    },
+    {
+      "id": 589,
+      "question": "What creature lives in the Chamber of Secrets?",
+      "answer": "A basilisk (giant serpent)",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 16",
+      "verified": true
+    },
+    {
+      "id": 590,
+      "question": "What is the name of the Weasley twins' joke shop?",
+      "answer": "Weasleys' Wizard Wheezes",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Half-Blood Prince, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 591,
+      "question": "What does the spell 'Finite Incantatem' do?",
+      "answer": "Stops or negates spell effects",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 592,
+      "question": "Who is Professor Binns?",
+      "answer": "The History of Magic professor, the only ghost teacher at Hogwarts",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 593,
+      "question": "What is Parseltongue?",
+      "answer": "The ability to speak to snakes, a rare magical ability associated with Salazar Slytherin",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 594,
+      "question": "What position does Angelina Johnson play on the Gryffindor Quidditch team?",
+      "answer": "Chaser (later becomes team Captain)",
+      "category": "Quidditch",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 595,
+      "question": "What does the spell 'Nox' do?",
+      "answer": "Extinguishes the light created by Lumos",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 596,
+      "question": "Who is Professor Vector?",
+      "answer": "The Arithmancy professor at Hogwarts",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Prisoner of Azkaban, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 597,
+      "question": "What is Skele-Gro?",
+      "answer": "A potion that regrows bones (though the process is very painful)",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 598,
+      "question": "What is Hogsmeade?",
+      "answer": "The only all-wizarding village in Britain, near Hogwarts",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 5",
+      "verified": true
+    },
+    {
+      "id": 599,
+      "question": "Who are the house-elves that work in the Hogwarts kitchens?",
+      "answer": "Over a hundred house-elves including Dobby and Winky (after they're freed)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 21",
+      "verified": true
+    },
+    {
+      "id": 600,
+      "question": "What does the Mirror of Erised show?",
+      "answer": "The deepest, most desperate desire of your heart",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 601,
+      "question": "What are the three Triwizard Tournament tasks?",
+      "answer": "Dragons (retrieve golden egg), underwater rescue (lake), maze with Triwizard Cup",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapters 20, 26, 31",
+      "verified": true
+    },
+    {
+      "id": 602,
+      "question": "Who are the Triwizard Tournament champions?",
+      "answer": "Cedric Diggory (Hufflepuff), Fleur Delacour (Beauxbatons), Viktor Krum (Durmstrang), and Harry Potter (unexpected fourth champion)",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 17",
+      "verified": true
+    },
+    {
+      "id": 603,
+      "question": "What does the Goblet of Fire do?",
+      "answer": "Selects champions for the Triwizard Tournament from those who submit their names",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 16",
+      "verified": true
+    },
+    {
+      "id": 604,
+      "question": "Who was the real Mad-Eye Moody replaced by?",
+      "answer": "Barty Crouch Jr. using Polyjuice Potion",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 35",
+      "verified": true
+    },
+    {
+      "id": 605,
+      "question": "What spell did Harry use to summon his broomstick in the First Task?",
+      "answer": "Accio Firebolt",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 20",
+      "verified": true
+    },
+    {
+      "id": 606,
+      "question": "What dragon did Harry face in the First Task?",
+      "answer": "Hungarian Horntail",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 20",
+      "verified": true
+    },
+    {
+      "id": 607,
+      "question": "Who did Harry rescue from the lake in the Second Task?",
+      "answer": "Ron Weasley (and also helped rescue Fleur's sister Gabrielle)",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 608,
+      "question": "What creatures live in the Black Lake?",
+      "answer": "Merpeople, Grindylows, and a giant squid",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 609,
+      "question": "Who is Ludo Bagman?",
+      "answer": "Head of the Department of Magical Games and Sports, former Quidditch player",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 610,
+      "question": "Who is Barty Crouch Sr.?",
+      "answer": "Head of the Department of International Magical Cooperation, former head of Magical Law Enforcement",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 611,
+      "question": "What is the Yule Ball?",
+      "answer": "A traditional dance held during the Triwizard Tournament",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 22",
+      "verified": true
+    },
+    {
+      "id": 612,
+      "question": "Who does Harry take to the Yule Ball?",
+      "answer": "Parvati Patil",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 23",
+      "verified": true
+    },
+    {
+      "id": 613,
+      "question": "Who does Ron take to the Yule Ball?",
+      "answer": "Padma Patil (Parvati's twin sister)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 23",
+      "verified": true
+    },
+    {
+      "id": 614,
+      "question": "Who does Hermione go to the Yule Ball with?",
+      "answer": "Viktor Krum",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 23",
+      "verified": true
+    },
+    {
+      "id": 615,
+      "question": "What is S.P.E.W.?",
+      "answer": "Society for the Promotion of Elfish Welfare, founded by Hermione",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 616,
+      "question": "What creature is a Sphinx?",
+      "answer": "A creature with a human head and lion body that guards with riddles",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 31",
+      "verified": true
+    },
+    {
+      "id": 617,
+      "question": "What is a Blast-Ended Skrewt?",
+      "answer": "A dangerous magical creature bred by Hagrid, with a stinger and ability to blast fire",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 13",
+      "verified": true
+    },
+    {
+      "id": 618,
+      "question": "What are the three Unforgivable Curses?",
+      "answer": "Avada Kedavra (Killing Curse), Crucio (Cruciatus/Torture Curse), and Imperio (Imperius/Mind Control Curse)",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 619,
+      "question": "Who killed Cedric Diggory?",
+      "answer": "Peter Pettigrew (Wormtail) on Voldemort's orders",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 32",
+      "verified": true
+    },
+    {
+      "id": 620,
+      "question": "What is Prior Incantatem?",
+      "answer": "A rare effect when twin wands duel, causing them to regurgitate echoes of previous spells",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Goblet of Fire, Chapter 36",
+      "verified": true
+    },
+    {
+      "id": 621,
+      "question": "What was used to restore Voldemort's body?",
+      "answer": "A potion made from bone of the father, flesh of the servant, and blood of the enemy",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 32",
+      "verified": true
+    },
+    {
+      "id": 622,
+      "question": "Who is Rita Skeeter?",
+      "answer": "A journalist for the Daily Prophet who writes sensationalist articles",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 623,
+      "question": "What is Rita Skeeter's secret?",
+      "answer": "She is an unregistered Animagus who can transform into a beetle",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 37",
+      "verified": true
+    },
+    {
+      "id": 624,
+      "question": "What does the spell 'Morsmordre' create?",
+      "answer": "The Dark Mark (Voldemort's symbol) in the sky",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Goblet of Fire, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 625,
+      "question": "What is the Quidditch World Cup result?",
+      "answer": "Ireland won against Bulgaria, but Viktor Krum caught the Snitch",
+      "category": "Quidditch",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 626,
+      "question": "Who is Winky?",
+      "answer": "Barty Crouch Sr.'s house-elf who was freed after being accused at the Quidditch World Cup",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 627,
+      "question": "What does the spell 'Engorgio' do?",
+      "answer": "Causes objects to swell and enlarge",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 628,
+      "question": "What does the spell 'Reducto' do?",
+      "answer": "Blasts solid objects to pieces (Reductor Curse)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 31",
+      "verified": true
+    },
+    {
+      "id": 629,
+      "question": "What does the spell 'Impedimenta' do?",
+      "answer": "Slows down or stops approaching attackers (Impediment Jinx)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 31",
+      "verified": true
+    },
+    {
+      "id": 630,
+      "question": "Where is Beauxbatons Academy located?",
+      "answer": "France (exact location unknown)",
+      "category": "Locations",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 15",
+      "verified": true
+    },
+    {
+      "id": 631,
+      "question": "Where is Durmstrang Institute located?",
+      "answer": "Northern Europe, exact location kept secret (possibly Scandinavia)",
+      "category": "Locations",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 15",
+      "verified": true
+    },
+    {
+      "id": 632,
+      "question": "Who is the headmistress of Beauxbatons?",
+      "answer": "Olympe Maxime",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 15",
+      "verified": true
+    },
+    {
+      "id": 633,
+      "question": "Who is the headmaster of Durmstrang?",
+      "answer": "Igor Karkaroff (a former Death Eater)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 15",
+      "verified": true
+    },
+    {
+      "id": 634,
+      "question": "What is the prize for winning the Triwizard Tournament?",
+      "answer": "One thousand Galleons and eternal glory",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 635,
+      "question": "What did Harry do with his Triwizard winnings?",
+      "answer": "Gave it all to Fred and George Weasley to start their joke shop",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 37",
+      "verified": true
+    },
+    {
+      "id": 636,
+      "question": "What does the spell 'Stupefy' do?",
+      "answer": "Stuns the target (Stunning Spell)",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 637,
+      "question": "What creature is a Blast-Ended Skrewt a hybrid of?",
+      "answer": "Manticore and fire crab",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Goblet of Fire, Chapter 24",
+      "verified": true
+    },
+    {
+      "id": 638,
+      "question": "Who does Hagrid take to the Yule Ball?",
+      "answer": "Madame Maxime",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 23",
+      "verified": true
+    },
+    {
+      "id": 639,
+      "question": "What does the golden egg contain?",
+      "answer": "A clue for the second task that must be opened underwater to be understood (mermaid song)",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 25",
+      "verified": true
+    },
+    {
+      "id": 640,
+      "question": "Who tells Harry to put the golden egg underwater?",
+      "answer": "Cedric Diggory (returning a favor)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 641,
+      "question": "Who tells Harry about using Gillyweed?",
+      "answer": "Dobby (though Fake Moody/Barty Crouch Jr. arranged for him to find out)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 642,
+      "question": "What does the spell 'Protego' do?",
+      "answer": "Creates a magical shield that deflects spells (Shield Charm)",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 31",
+      "verified": true
+    },
+    {
+      "id": 643,
+      "question": "What is Moody's motto?",
+      "answer": "Constant Vigilance!",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 644,
+      "question": "What is a Portkey made from at the Quidditch World Cup?",
+      "answer": "An old boot",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 645,
+      "question": "Who created the Triwizard Cup Portkey?",
+      "answer": "Barty Crouch Jr. (disguised as Mad-Eye Moody)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 35",
+      "verified": true
+    },
+    {
+      "id": 646,
+      "question": "What graveyard did the Portkey take Harry and Cedric to?",
+      "answer": "Little Hangleton graveyard (where the Riddle family is buried)",
+      "category": "Locations",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 32",
+      "verified": true
+    },
+    {
+      "id": 647,
+      "question": "What does Voldemort's wand and Harry's wand share?",
+      "answer": "Both contain a feather from the same phoenix (Fawkes)",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 36",
+      "verified": true
+    },
+    {
+      "id": 648,
+      "question": "Who are the Death Eaters?",
+      "answer": "Voldemort's followers, dark wizards who bear the Dark Mark",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 649,
+      "question": "What position does Viktor Krum play in Quidditch?",
+      "answer": "Seeker",
+      "category": "Quidditch",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 650,
+      "question": "What does Moody's magical eye allow him to see?",
+      "answer": "Through solid objects, the back of his head, and through invisibility cloaks",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 13",
+      "verified": true
+    },
+    {
+      "id": 651,
+      "question": "What is the Order of the Phoenix?",
+      "answer": "A secret organization founded by Dumbledore to fight Voldemort and the Death Eaters",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 652,
+      "question": "Who is Dolores Umbridge?",
+      "answer": "Senior Undersecretary to the Minister of Magic, later High Inquisitor and Headmistress of Hogwarts",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 653,
+      "question": "What is Dumbledore's Army?",
+      "answer": "A secret student organization formed by Harry to teach Defense Against the Dark Arts",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 654,
+      "question": "What does D.A. stand for?",
+      "answer": "Dumbledore's Army",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 655,
+      "question": "Who is Luna Lovegood?",
+      "answer": "A Ravenclaw student known for her eccentric beliefs and ability to see Thestrals",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 656,
+      "question": "What does the Department of Mysteries contain?",
+      "answer": "Various mysterious items including prophecies, time-turners, and the Veil",
+      "category": "Locations",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 34",
+      "verified": true
+    },
+    {
+      "id": 657,
+      "question": "What is the Veil?",
+      "answer": "A mysterious archway with a tattered black curtain that represents death",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 35",
+      "verified": true
+    },
+    {
+      "id": 658,
+      "question": "Who kills Sirius Black?",
+      "answer": "Bellatrix Lestrange",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 35",
+      "verified": true
+    },
+    {
+      "id": 659,
+      "question": "What is a prophecy orb?",
+      "answer": "A glass sphere containing a recorded prophecy that can only be retrieved by those it concerns",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 34",
+      "verified": true
+    },
+    {
+      "id": 660,
+      "question": "What does Umbridge's quill do?",
+      "answer": "Writes in blood, carving words into the writer's hand as they write",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 13",
+      "verified": true
+    },
+    {
+      "id": 661,
+      "question": "What must Harry write with Umbridge's quill?",
+      "answer": "I must not tell lies",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 13",
+      "verified": true
+    },
+    {
+      "id": 662,
+      "question": "Who are the members of the original Order of the Phoenix?",
+      "answer": "Including Sirius Black, Remus Lupin, Mad-Eye Moody, Kingsley Shacklebolt, Tonks, the Weasleys, and many others",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Order of Phoenix, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 663,
+      "question": "What form does Tonks' Patronus take?",
+      "answer": "A wolf (later changes to reflect her love for Lupin)",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 664,
+      "question": "Who is Kreacher?",
+      "answer": "The Black family house-elf who served Sirius at Grimmauld Place",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 665,
+      "question": "What creature does Hagrid bring back from the mountains?",
+      "answer": "His half-brother Grawp, a giant",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 30",
+      "verified": true
+    },
+    {
+      "id": 666,
+      "question": "What is the Hall of Prophecy?",
+      "answer": "A room in the Department of Mysteries containing shelves of prophecy orbs",
+      "category": "Locations",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 34",
+      "verified": true
+    },
+    {
+      "id": 667,
+      "question": "What does the prophecy about Harry and Voldemort say?",
+      "answer": "Neither can live while the other survives",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 37",
+      "verified": true
+    },
+    {
+      "id": 668,
+      "question": "Who made the prophecy about Harry and Voldemort?",
+      "answer": "Professor Trelawney",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 37",
+      "verified": true
+    },
+    {
+      "id": 669,
+      "question": "What does the spell 'Levicorpus' do?",
+      "answer": "Hoists the target into the air by their ankle",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 670,
+      "question": "What is the counter-curse to Levicorpus?",
+      "answer": "Liberacorpus",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 671,
+      "question": "What does the spell 'Muffliato' do?",
+      "answer": "Creates a buzzing sound in the ears of nearby people to prevent eavesdropping",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 672,
+      "question": "What is Thestrals' special ability?",
+      "answer": "They can only be seen by those who have witnessed death",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 673,
+      "question": "Who teaches Defense Against the Dark Arts in Harry's fifth year?",
+      "answer": "Dolores Umbridge",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 674,
+      "question": "What position does Umbridge create for herself?",
+      "answer": "High Inquisitor of Hogwarts",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 15",
+      "verified": true
+    },
+    {
+      "id": 675,
+      "question": "Who is Nymphadora Tonks?",
+      "answer": "An Auror and member of the Order of the Phoenix who is a Metamorphmagus",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 3",
+      "verified": true
+    },
+    {
+      "id": 676,
+      "question": "What is a Metamorphmagus?",
+      "answer": "A witch or wizard who can change their appearance at will without using Polyjuice Potion",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 3",
+      "verified": true
+    },
+    {
+      "id": 677,
+      "question": "Who is Kingsley Shacklebolt?",
+      "answer": "An Auror and member of the Order of the Phoenix",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 3",
+      "verified": true
+    },
+    {
+      "id": 678,
+      "question": "What creatures attack Harry and Dudley?",
+      "answer": "Dementors",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 1",
+      "verified": true
+    },
+    {
+      "id": 679,
+      "question": "Who sent the Dementors to attack Harry?",
+      "answer": "Dolores Umbridge",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 680,
+      "question": "What does Educational Decree Number Twenty-Four ban?",
+      "answer": "All student organizations (leading to the secret formation of Dumbledore's Army)",
+      "category": "Hogwarts",
+      "difficulty": "hard",
+      "source": "Order of Phoenix, Chapter 17",
+      "verified": true
+    },
+    {
+      "id": 681,
+      "question": "Where does Dumbledore's Army meet?",
+      "answer": "The Room of Requirement",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 682,
+      "question": "Who betrays Dumbledore's Army to Umbridge?",
+      "answer": "Marietta Edgecombe",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 27",
+      "verified": true
+    },
+    {
+      "id": 683,
+      "question": "What happens to Marietta when she betrays the D.A.?",
+      "answer": "The word 'SNEAK' appears in pimples across her face (from Hermione's jinx)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 27",
+      "verified": true
+    },
+    {
+      "id": 684,
+      "question": "Who becomes Gryffindor Quidditch captain in Harry's fifth year?",
+      "answer": "Angelina Johnson",
+      "category": "Quidditch",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 13",
+      "verified": true
+    },
+    {
+      "id": 685,
+      "question": "Who replaces Fred and George as Beaters?",
+      "answer": "Andrew Kirke and Jack Sloper",
+      "category": "Quidditch",
+      "difficulty": "hard",
+      "source": "Order of Phoenix, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 686,
+      "question": "What does the spell 'Reducio' do?",
+      "answer": "Shrinks objects (opposite of Engorgio)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 23",
+      "verified": true
+    },
+    {
+      "id": 687,
+      "question": "Who is Cho Chang?",
+      "answer": "A Ravenclaw Seeker and Harry's first girlfriend",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 13",
+      "verified": true
+    },
+    {
+      "id": 688,
+      "question": "What is St. Mungo's Hospital for Magical Maladies and Injuries?",
+      "answer": "The wizarding hospital in London",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 22",
+      "verified": true
+    },
+    {
+      "id": 689,
+      "question": "What curse did Bellatrix use on Neville's parents?",
+      "answer": "Cruciatus Curse (torture curse)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 30",
+      "verified": true
+    },
+    {
+      "id": 690,
+      "question": "Who becomes Minister of Magic after Fudge?",
+      "answer": "Rufus Scrimgeour",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 1",
+      "verified": true
+    },
+    {
+      "id": 691,
+      "question": "What creature is a Bowtruckle?",
+      "answer": "A small tree-guardian creature made of bark and twigs",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 13",
+      "verified": true
+    },
+    {
+      "id": 692,
+      "question": "What does the spell 'Avis' create?",
+      "answer": "Conjures a flock of birds",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 693,
+      "question": "Who is Cornelius Fudge?",
+      "answer": "Minister of Magic who refuses to believe Voldemort has returned",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 694,
+      "question": "What does the Ministry use to travel in Order of the Phoenix?",
+      "answer": "The Floo Network (fireplaces)",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 695,
+      "question": "Who is Mrs. Figg?",
+      "answer": "Arabella Figg, a Squib and member of the Order who watched over Harry",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 2",
+      "verified": true
+    },
+    {
+      "id": 696,
+      "question": "What does the spell 'Episkey' do?",
+      "answer": "Heals minor injuries",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 697,
+      "question": "What does the spell 'Tergeo' do?",
+      "answer": "Siphons or cleans",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 698,
+      "question": "Who replaces Hagrid as Care of Magical Creatures teacher?",
+      "answer": "Professor Grubbly-Plank",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Order of Phoenix, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 699,
+      "question": "What creatures can Luna Lovegood see?",
+      "answer": "Thestrals (because she witnessed her mother's death)",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 700,
+      "question": "What magazine does Luna's father publish?",
+      "answer": "The Quibbler",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 701,
+      "question": "Who is the Half-Blood Prince?",
+      "answer": "Severus Snape",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Half-Blood Prince, Chapter 28",
+      "verified": true
+    },
+    {
+      "id": 702,
+      "question": "What does the spell 'Sectumsempra' do?",
+      "answer": "Slashes the target as if cut by an invisible sword",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 24",
+      "verified": true
+    },
+    {
+      "id": 703,
+      "question": "Who kills Dumbledore?",
+      "answer": "Severus Snape (though at Dumbledore's request)",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Half-Blood Prince, Chapter 27",
+      "verified": true
+    },
+    {
+      "id": 704,
+      "question": "What are Voldemort's seven Horcruxes?",
+      "answer": "Tom Riddle's diary, Marvolo Gaunt's ring, Slytherin's locket, Hufflepuff's cup, Ravenclaw's diadem, Nagini, and Harry Potter",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, various chapters",
+      "verified": true
+    },
+    {
+      "id": 705,
+      "question": "What potion gives good luck?",
+      "answer": "Felix Felicis (Liquid Luck)",
+      "category": "Potions",
+      "difficulty": "easy",
+      "source": "Half-Blood Prince, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 706,
+      "question": "What is Amortentia?",
+      "answer": "The most powerful love potion in existence",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 707,
+      "question": "Who does Harry date in his sixth year?",
+      "answer": "Ginny Weasley",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Half-Blood Prince, Chapter 24",
+      "verified": true
+    },
+    {
+      "id": 708,
+      "question": "Who does Ron date in his sixth year?",
+      "answer": "Lavender Brown",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Half-Blood Prince, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 709,
+      "question": "What is an Inferius?",
+      "answer": "A dead body reanimated by dark magic to do a dark wizard's bidding",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 21",
+      "verified": true
+    },
+    {
+      "id": 710,
+      "question": "Where did Dumbledore and Harry go to retrieve a Horcrux?",
+      "answer": "A cave by the sea where Voldemort tormented two orphans as a child",
+      "category": "Locations",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 711,
+      "question": "What potion protects the Horcrux in the cave?",
+      "answer": "A potion that causes terrible pain and forces the drinker to relive their worst memories",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 712,
+      "question": "Who took the real locket Horcrux from the cave?",
+      "answer": "Regulus Arcturus Black (R.A.B.)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 713,
+      "question": "Who is Horace Slughorn?",
+      "answer": "Potions Master who taught Tom Riddle about Horcruxes",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Half-Blood Prince, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 714,
+      "question": "What is the Slug Club?",
+      "answer": "Professor Slughorn's group of favorite and well-connected students",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 715,
+      "question": "Who becomes Gryffindor Quidditch Captain in Harry's sixth year?",
+      "answer": "Harry Potter",
+      "category": "Quidditch",
+      "difficulty": "easy",
+      "source": "Half-Blood Prince, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 716,
+      "question": "Who is the new Gryffindor Keeper?",
+      "answer": "Ron Weasley",
+      "category": "Quidditch",
+      "difficulty": "easy",
+      "source": "Half-Blood Prince, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 717,
+      "question": "What does the spell 'Aguamenti' create?",
+      "answer": "A jet of water from the wand tip",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 718,
+      "question": "What cursed object did Katie Bell touch?",
+      "answer": "A cursed necklace intended for Dumbledore",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 719,
+      "question": "Who cursed the necklace that Katie Bell touched?",
+      "answer": "Draco Malfoy (under orders from Voldemort)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 27",
+      "verified": true
+    },
+    {
+      "id": 720,
+      "question": "What did Draco use to smuggle Death Eaters into Hogwarts?",
+      "answer": "A pair of Vanishing Cabinets connecting Hogwarts to Borgin and Burkes",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 27",
+      "verified": true
+    },
+    {
+      "id": 721,
+      "question": "Who is Fenrir Greyback?",
+      "answer": "A savage werewolf who infects people on purpose",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 27",
+      "verified": true
+    },
+    {
+      "id": 722,
+      "question": "Who killed Remus Lupin and Tonks?",
+      "answer": "They were killed during the Battle of Hogwarts (Lupin by Dolohov, Tonks by Bellatrix)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 33",
+      "verified": true
+    },
+    {
+      "id": 723,
+      "question": "What is the name of Lupin and Tonks' son?",
+      "answer": "Ted Remus Lupin (Teddy)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 25",
+      "verified": true
+    },
+    {
+      "id": 724,
+      "question": "Who are Teddy Lupin's godparents?",
+      "answer": "Harry Potter",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 25",
+      "verified": true
+    },
+    {
+      "id": 725,
+      "question": "What spell did Harry use on Draco that nearly killed him?",
+      "answer": "Sectumsempra",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Half-Blood Prince, Chapter 24",
+      "verified": true
+    },
+    {
+      "id": 726,
+      "question": "What spell cures Sectumsempra wounds?",
+      "answer": "Vulnera Sanentur",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 24",
+      "verified": true
+    },
+    {
+      "id": 727,
+      "question": "Who becomes Head of Gryffindor after McGonagall becomes Headmistress?",
+      "answer": "This is not specified in the books",
+      "category": "Hogwarts",
+      "difficulty": "hard",
+      "source": "Not specified",
+      "verified": true
+    },
+    {
+      "id": 728,
+      "question": "What are the three brothers' names in the Tale of the Three Brothers?",
+      "answer": "Antioch, Cadmus, and Ignotus Peverell",
+      "category": "History",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 21",
+      "verified": true
+    },
+    {
+      "id": 729,
+      "question": "Who is the Master of Death?",
+      "answer": "One who possesses all three Deathly Hallows (Harry became the master)",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 35",
+      "verified": true
+    },
+    {
+      "id": 730,
+      "question": "What is the Elder Wand?",
+      "answer": "The most powerful wand in existence, one of the Deathly Hallows",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Deathly Hallows, Chapter 21",
+      "verified": true
+    },
+    {
+      "id": 731,
+      "question": "Where was the Resurrection Stone hidden?",
+      "answer": "Inside the Golden Snitch that Dumbledore left to Harry",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 34",
+      "verified": true
+    },
+    {
+      "id": 732,
+      "question": "Who destroys the locket Horcrux?",
+      "answer": "Ron Weasley (with Gryffindor's sword)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 19",
+      "verified": true
+    },
+    {
+      "id": 733,
+      "question": "Who destroys the cup Horcrux?",
+      "answer": "Hermione Granger (with a basilisk fang)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 31",
+      "verified": true
+    },
+    {
+      "id": 734,
+      "question": "Who destroys the diadem Horcrux?",
+      "answer": "Vincent Crabbe's Fiendfyre (unintentionally)",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 31",
+      "verified": true
+    },
+    {
+      "id": 735,
+      "question": "Who destroys Nagini?",
+      "answer": "Neville Longbottom (with Gryffindor's sword)",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Deathly Hallows, Chapter 36",
+      "verified": true
+    },
+    {
+      "id": 736,
+      "question": "What is Fiendfyre?",
+      "answer": "Cursed fire that takes the shape of beasts and is nearly impossible to control",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 31",
+      "verified": true
+    },
+    {
+      "id": 737,
+      "question": "Who kills Fred Weasley?",
+      "answer": "Killed in an explosion during the Battle of Hogwarts (likely Augustus Rookwood)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 31",
+      "verified": true
+    },
+    {
+      "id": 738,
+      "question": "Who kills Bellatrix Lestrange?",
+      "answer": "Molly Weasley",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Deathly Hallows, Chapter 36",
+      "verified": true
+    },
+    {
+      "id": 739,
+      "question": "What does Molly say before killing Bellatrix?",
+      "answer": "NOT MY DAUGHTER, YOU BITCH!",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 36",
+      "verified": true
+    },
+    {
+      "id": 740,
+      "question": "What form does Hermione's Patronus take?",
+      "answer": "An otter",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 16",
+      "verified": true
+    },
+    {
+      "id": 741,
+      "question": "What form does Ron's Patronus take?",
+      "answer": "A Jack Russell terrier",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 19",
+      "verified": true
+    },
+    {
+      "id": 742,
+      "question": "What form does Ginny's Patronus take?",
+      "answer": "A horse",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Not explicitly stated in books",
+      "verified": true
+    },
+    {
+      "id": 743,
+      "question": "What form does Snape's Patronus take?",
+      "answer": "A doe (same as Lily Potter's)",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Deathly Hallows, Chapter 33",
+      "verified": true
+    },
+    {
+      "id": 744,
+      "question": "Who led Ron to the sword of Gryffindor?",
+      "answer": "Snape's Patronus (the silver doe)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 19",
+      "verified": true
+    },
+    {
+      "id": 745,
+      "question": "What is Apparition?",
+      "answer": "Magical transportation by which a witch or wizard disappears and reappears at another location",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Half-Blood Prince, Chapter 17",
+      "verified": true
+    },
+    {
+      "id": 746,
+      "question": "What happens if you Apparate incorrectly?",
+      "answer": "Splinching - leaving part of yourself behind",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 747,
+      "question": "Who gets Splinched in Deathly Hallows?",
+      "answer": "Ron Weasley (loses part of his arm)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 748,
+      "question": "What is the Taboo?",
+      "answer": "A jinx placed on Voldemort's name that alerts Death Eaters when it's spoken",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 20",
+      "verified": true
+    },
+    {
+      "id": 749,
+      "question": "Who is Xenophilius Lovegood?",
+      "answer": "Luna's father and editor of The Quibbler",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Deathly Hallows, Chapter 20",
+      "verified": true
+    },
+    {
+      "id": 750,
+      "question": "Why did Xenophilius betray Harry?",
+      "answer": "The Death Eaters had kidnapped Luna and he wanted to trade Harry for her",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 21",
+      "verified": true
+    },
+    {
+      "id": 751,
+      "question": "What does the Imperius Curse do?",
+      "answer": "Controls the victim's actions and makes them do the caster's bidding",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 752,
+      "question": "What does the Cruciatus Curse do?",
+      "answer": "Inflicts unbearable pain on the victim",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 753,
+      "question": "What does Avada Kedavra do?",
+      "answer": "The Killing Curse - instantly kills the victim with no counter-curse",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 754,
+      "question": "What creature is a Kneazle?",
+      "answer": "An intelligent cat-like creature that can detect untrustworthy people",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Fantastic Beasts reference",
+      "verified": true
+    },
+    {
+      "id": 755,
+      "question": "What is a Remembrall?",
+      "answer": "A glass ball that turns red when you've forgotten something",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 756,
+      "question": "What does the spell 'Serpensortia' create?",
+      "answer": "Conjures a snake",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 757,
+      "question": "What does Draught of Living Death do?",
+      "answer": "Puts the drinker into a deep, death-like sleep",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 758,
+      "question": "What creature is a Grindylow?",
+      "answer": "A small, horned water demon with sharp teeth",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 759,
+      "question": "What does the spell 'Reparo' do?",
+      "answer": "Repairs broken objects",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 760,
+      "question": "What is a Squib?",
+      "answer": "A person born to wizard parents but has no magical powers",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 761,
+      "question": "What spell makes objects invisible?",
+      "answer": "Disillusionment Charm",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 3",
+      "verified": true
+    },
+    {
+      "id": 762,
+      "question": "What does the spell 'Homenum Revelio' do?",
+      "answer": "Reveals human presence nearby",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 763,
+      "question": "What is Essence of Dittany?",
+      "answer": "A powerful healing potion that regrows skin",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 764,
+      "question": "What creature is a Niffler?",
+      "answer": "A small creature attracted to shiny objects and treasure",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 28",
+      "verified": true
+    },
+    {
+      "id": 765,
+      "question": "What does the spell 'Geminio' do?",
+      "answer": "Creates a duplicate of an object",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 766,
+      "question": "What is the Fidelius Charm?",
+      "answer": "A spell that hides a secret within a Secret-Keeper's soul",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 767,
+      "question": "What creature is a Red Cap?",
+      "answer": "A goblin-like creature that lurks in places where blood has been shed",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Prisoner of Azkaban, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 768,
+      "question": "What does the spell 'Piertotum Locomotor' do?",
+      "answer": "Animates statues and suits of armor",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 30",
+      "verified": true
+    },
+    {
+      "id": 769,
+      "question": "What is a Howler?",
+      "answer": "A letter that shouts the message in the sender's voice at top volume",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 770,
+      "question": "What does the spell 'Diffindo' do?",
+      "answer": "Cuts or rips objects (Severing Charm)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 20",
+      "verified": true
+    },
+    {
+      "id": 771,
+      "question": "What creature is a Kappa?",
+      "answer": "A Japanese water demon that strangles people in shallow water",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Prisoner of Azkaban, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 772,
+      "question": "What does the spell 'Salvio Hexia' do?",
+      "answer": "Provides protection against hexes",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 773,
+      "question": "What is a Sneakoscope?",
+      "answer": "A device that spins and whistles when detecting untrustworthy behavior",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 1",
+      "verified": true
+    },
+    {
+      "id": 774,
+      "question": "What does the spell 'Relashio' do?",
+      "answer": "Releases the caster from restraints or grip",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 775,
+      "question": "What creature is a Hinkypunk?",
+      "answer": "A one-legged creature that lures travelers into bogs with its lantern",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Prisoner of Azkaban, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 776,
+      "question": "What does the spell 'Orchideous' create?",
+      "answer": "Conjures a bouquet of flowers",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Goblet of Fire, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 777,
+      "question": "What is Pepperup Potion?",
+      "answer": "A potion that cures the common cold",
+      "category": "Potions",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 778,
+      "question": "What does the spell 'Flagrate' do?",
+      "answer": "Allows the caster to write or draw in fiery lines",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 24",
+      "verified": true
+    },
+    {
+      "id": 779,
+      "question": "What creature is a Lethifold?",
+      "answer": "A cloak-like creature that suffocates sleeping victims",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Fantastic Beasts reference",
+      "verified": true
+    },
+    {
+      "id": 780,
+      "question": "What does the spell 'Confringo' do?",
+      "answer": "Causes objects to explode (Blasting Curse)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 781,
+      "question": "What is Alihotsy Draught?",
+      "answer": "A potion that causes uncontrollable laughter",
+      "category": "Potions",
+      "difficulty": "hard",
+      "source": "Order of Phoenix, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 782,
+      "question": "What does the spell 'Defodio' do?",
+      "answer": "Carves or digs through objects",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 783,
+      "question": "What creature is a Jarvey?",
+      "answer": "An oversized ferret that can speak (usually insults)",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Fantastic Beasts reference",
+      "verified": true
+    },
+    {
+      "id": 784,
+      "question": "What does the spell 'Erecto' do?",
+      "answer": "Erects tents or structures",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 785,
+      "question": "What is Strengthening Solution?",
+      "answer": "A potion that increases the drinker's strength",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 786,
+      "question": "What does the spell 'Glisseo' do?",
+      "answer": "Causes stairs to flatten into a slide",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 32",
+      "verified": true
+    },
+    {
+      "id": 787,
+      "question": "What creature is a Puffskein?",
+      "answer": "A small, fluffy creature that doesn't mind being cuddled",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Goblet of Fire, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 788,
+      "question": "What does the spell 'Deprimo' do?",
+      "answer": "Blasts holes in the floor",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 21",
+      "verified": true
+    },
+    {
+      "id": 789,
+      "question": "What is Invigoration Draught?",
+      "answer": "A potion that boosts energy",
+      "category": "Potions",
+      "difficulty": "hard",
+      "source": "Order of Phoenix, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 790,
+      "question": "What does the spell 'Duro' do?",
+      "answer": "Turns objects to stone",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 32",
+      "verified": true
+    },
+    {
+      "id": 791,
+      "question": "What creature is an Erumpent?",
+      "answer": "A large rhinoceros-like beast with explosive horn fluid",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Fantastic Beasts reference",
+      "verified": true
+    },
+    {
+      "id": 792,
+      "question": "What does the spell 'Harmonia Nectere Passus' do?",
+      "answer": "Repairs Vanishing Cabinets",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 24",
+      "verified": true
+    },
+    {
+      "id": 793,
+      "question": "What is Wit-Sharpening Potion?",
+      "answer": "A potion that enhances the drinker's brain power",
+      "category": "Potions",
+      "difficulty": "hard",
+      "source": "Order of Phoenix, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 794,
+      "question": "What does the spell 'Meteolojinx Recanto' do?",
+      "answer": "Stops weather effects caused by magic",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 13",
+      "verified": true
+    },
+    {
+      "id": 795,
+      "question": "What creature is a Demiguise?",
+      "answer": "A peaceful ape-like creature that can become invisible",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Fantastic Beasts reference",
+      "verified": true
+    },
+    {
+      "id": 796,
+      "question": "What does the spell 'Colloportus' do?",
+      "answer": "Locks and seals doors",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 35",
+      "verified": true
+    },
+    {
+      "id": 797,
+      "question": "What is Shrinking Solution?",
+      "answer": "A potion that causes the drinker or object to shrink",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 798,
+      "question": "What does the spell 'Portus' do?",
+      "answer": "Turns an object into a Portkey",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Order of Phoenix, Chapter 22",
+      "verified": true
+    },
+    {
+      "id": 799,
+      "question": "What creature is a Fwooper?",
+      "answer": "An African bird whose song drives the listener mad",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Fantastic Beasts reference",
+      "verified": true
+    },
+    {
+      "id": 800,
+      "question": "What does the spell 'Tarantallegra' do?",
+      "answer": "Forces the victim's legs to dance uncontrollably",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 801,
+      "question": "How many staircases does Hogwarts have?",
+      "answer": "142 staircases",
+      "category": "Hogwarts",
+      "difficulty": "hard",
+      "source": "Philosopher's Stone, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 802,
+      "question": "What is the Room of Hidden Things?",
+      "answer": "A version of the Room of Requirement used to hide objects, where Ravenclaw's diadem was hidden",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 24",
+      "verified": true
+    },
+    {
+      "id": 803,
+      "question": "What type of broomstick does Harry receive in his first year?",
+      "answer": "Nimbus 2000",
+      "category": "Quidditch",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 804,
+      "question": "What broomstick does Sirius give Harry?",
+      "answer": "Firebolt",
+      "category": "Quidditch",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 22",
+      "verified": true
+    },
+    {
+      "id": 805,
+      "question": "Who is the Hogwarts caretaker before Filch?",
+      "answer": "Apollyon Pringle",
+      "category": "Hogwarts",
+      "difficulty": "hard",
+      "source": "Goblet of Fire, Chapter 31",
+      "verified": true
+    },
+    {
+      "id": 806,
+      "question": "What is the incantation to reveal the Marauder's Map?",
+      "answer": "I solemnly swear that I am up to no good",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 807,
+      "question": "Who are Harry's children?",
+      "answer": "James Sirius, Albus Severus, and Lily Luna Potter",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Epilogue",
+      "verified": true
+    },
+    {
+      "id": 808,
+      "question": "Who are Ron and Hermione's children?",
+      "answer": "Rose and Hugo Granger-Weasley",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Epilogue",
+      "verified": true
+    },
+    {
+      "id": 809,
+      "question": "What form does Luna Lovegood's Patronus take?",
+      "answer": "A hare",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Pottermore reference",
+      "verified": true
+    },
+    {
+      "id": 810,
+      "question": "How many house points did Gryffindor win in Harry's first year?",
+      "answer": "482 points (tied with Slytherin before last-minute points)",
+      "category": "Hogwarts",
+      "difficulty": "hard",
+      "source": "Philosopher's Stone, Chapter 17",
+      "verified": true
+    },
+    {
+      "id": 811,
+      "question": "What is Gryffindor's ghost called?",
+      "answer": "Nearly Headless Nick (Sir Nicholas de Mimsy-Porpington)",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 812,
+      "question": "What is Ravenclaw's ghost called?",
+      "answer": "The Grey Lady (Helena Ravenclaw)",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 31",
+      "verified": true
+    },
+    {
+      "id": 813,
+      "question": "What is Hufflepuff's ghost called?",
+      "answer": "The Fat Friar",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 814,
+      "question": "What is Slytherin's ghost called?",
+      "answer": "The Bloody Baron",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 815,
+      "question": "How do you get into the Ravenclaw common room?",
+      "answer": "Answer a riddle posed by the bronze door knocker",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 29",
+      "verified": true
+    },
+    {
+      "id": 816,
+      "question": "How do you get into the Hufflepuff common room?",
+      "answer": "Tap the barrel two from the bottom, middle of the second row, in the rhythm of 'Helga Hufflepuff'",
+      "category": "Hogwarts",
+      "difficulty": "hard",
+      "source": "Pottermore reference",
+      "verified": true
+    },
+    {
+      "id": 817,
+      "question": "How do you get into the Slytherin common room?",
+      "answer": "Speak the password to a bare stone wall in the dungeons",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 818,
+      "question": "What is the Hogwarts school song?",
+      "answer": "Hogwarts, Hogwarts, Hoggy Warty Hogwarts...",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 819,
+      "question": "Who wins the Quidditch Cup in Harry's third year?",
+      "answer": "Gryffindor",
+      "category": "Quidditch",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 22",
+      "verified": true
+    },
+    {
+      "id": 820,
+      "question": "What happens when a Quaffle goes through a hoop?",
+      "answer": "The team scores 10 points",
+      "category": "Quidditch",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 821,
+      "question": "What are Bludgers?",
+      "answer": "Heavy black iron balls that try to knock players off their brooms",
+      "category": "Quidditch",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 822,
+      "question": "What position does Ginny Weasley play?",
+      "answer": "Seeker (and Chaser)",
+      "category": "Quidditch",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 823,
+      "question": "Who are the Gryffindor Chasers in Harry's first year?",
+      "answer": "Angelina Johnson, Alicia Spinnet, and Katie Bell",
+      "category": "Quidditch",
+      "difficulty": "hard",
+      "source": "Philosopher's Stone, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 824,
+      "question": "What is the name of the Quidditch referee?",
+      "answer": "Madam Hooch (during matches, usually)",
+      "category": "Quidditch",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 825,
+      "question": "Who is Lee Jordan?",
+      "answer": "Gryffindor student and Quidditch commentator, friend of the Weasley twins",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 826,
+      "question": "What is the name of the Weasley family owl?",
+      "answer": "Errol",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 3",
+      "verified": true
+    },
+    {
+      "id": 827,
+      "question": "What is the name of Sirius Black's family home?",
+      "answer": "12 Grimmauld Place",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 828,
+      "question": "What street do the Dursleys live on?",
+      "answer": "Privet Drive",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 1",
+      "verified": true
+    },
+    {
+      "id": 829,
+      "question": "What number is the Dursleys' house?",
+      "answer": "Number 4 Privet Drive",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 1",
+      "verified": true
+    },
+    {
+      "id": 830,
+      "question": "What does Dudley call his bedroom?",
+      "answer": "His 'second bedroom' (the smaller one)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 2",
+      "verified": true
+    },
+    {
+      "id": 831,
+      "question": "What is the name of the Dursleys' drill company?",
+      "answer": "Grunnings",
+      "category": "Locations",
+      "difficulty": "hard",
+      "source": "Philosopher's Stone, Chapter 1",
+      "verified": true
+    },
+    {
+      "id": 832,
+      "question": "Who is Aunt Marge?",
+      "answer": "Vernon Dursley's sister who breeds bulldogs",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 2",
+      "verified": true
+    },
+    {
+      "id": 833,
+      "question": "What happens to Aunt Marge?",
+      "answer": "Harry accidentally inflates her like a balloon",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 2",
+      "verified": true
+    },
+    {
+      "id": 834,
+      "question": "What is the name of Hagrid's three-headed dog's owner?",
+      "answer": "A Greek chappie Hagrid met in a pub",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Philosopher's Stone, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 835,
+      "question": "What is Hagrid's wand made from?",
+      "answer": "Oak, 16 inches (broken and hidden in his pink umbrella)",
+      "category": "History",
+      "difficulty": "hard",
+      "source": "Chamber of Secrets, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 836,
+      "question": "Who is Hagrid's mother?",
+      "answer": "Fridwulfa, a giantess",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Goblet of Fire, Chapter 24",
+      "verified": true
+    },
+    {
+      "id": 837,
+      "question": "What is Grawp's height?",
+      "answer": "About 16 feet tall (small for a giant)",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Order of Phoenix, Chapter 30",
+      "verified": true
+    },
+    {
+      "id": 838,
+      "question": "Who is Olympe Maxime?",
+      "answer": "Headmistress of Beauxbatons Academy, a half-giant",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 15",
+      "verified": true
+    },
+    {
+      "id": 839,
+      "question": "What is the name of Hermione's parents' profession?",
+      "answer": "Dentists",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 840,
+      "question": "What spell did Hermione use on her parents?",
+      "answer": "Obliviate (to protect them during the war)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 841,
+      "question": "What fake names did Hermione give her parents?",
+      "answer": "Wendell and Monica Wilkins",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 842,
+      "question": "What is Ron's middle name?",
+      "answer": "Bilius",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 843,
+      "question": "What is Hermione's middle name?",
+      "answer": "Jean",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 844,
+      "question": "What is Harry's middle name?",
+      "answer": "James",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 845,
+      "question": "What is Ginny's full first name?",
+      "answer": "Ginevra",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 846,
+      "question": "What is Neville's parents' names?",
+      "answer": "Frank and Alice Longbottom",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 30",
+      "verified": true
+    },
+    {
+      "id": 847,
+      "question": "Who raises Neville?",
+      "answer": "His grandmother, Augusta Longbottom",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 848,
+      "question": "What plant does Neville excel at in Herbology?",
+      "answer": "Mimbulus mimbletonia (and many others)",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Order of Phoenix, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 849,
+      "question": "What does Mimbulus mimbletonia do?",
+      "answer": "Squirts Stinksap when poked",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Order of Phoenix, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 850,
+      "question": "Who becomes Herbology professor?",
+      "answer": "Professor Pomona Sprout",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 851,
+      "question": "Who is Head of Hufflepuff?",
+      "answer": "Professor Pomona Sprout",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 852,
+      "question": "Who is Head of Ravenclaw?",
+      "answer": "Professor Filius Flitwick",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 853,
+      "question": "Who is Head of Slytherin?",
+      "answer": "Professor Severus Snape (later Horace Slughorn)",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 854,
+      "question": "Who is Head of Gryffindor?",
+      "answer": "Professor Minerva McGonagall",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 855,
+      "question": "What subject does Professor Flitwick teach?",
+      "answer": "Charms",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 856,
+      "question": "What creature is Nagini?",
+      "answer": "A large snake (Voldemort's pet and Horcrux)",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 1",
+      "verified": true
+    },
+    {
+      "id": 857,
+      "question": "What did Nagini used to be?",
+      "answer": "A woman named Nagini (revealed in Fantastic Beasts)",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Fantastic Beasts: The Crimes of Grindelwald",
+      "verified": true
+    },
+    {
+      "id": 858,
+      "question": "Who did Nagini kill?",
+      "answer": "Severus Snape, Bertha Jorkins, and others",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 32",
+      "verified": true
+    },
+    {
+      "id": 859,
+      "question": "What is the Sword of Gryffindor made of?",
+      "answer": "Goblin-wrought silver with rubies",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 860,
+      "question": "What special property does the Sword of Gryffindor have?",
+      "answer": "It absorbs substances that make it stronger (like basilisk venom)",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 15",
+      "verified": true
+    },
+    {
+      "id": 861,
+      "question": "Who made the Sword of Gryffindor?",
+      "answer": "Ragnuk the First (a goblin)",
+      "category": "History",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 15",
+      "verified": true
+    },
+    {
+      "id": 862,
+      "question": "What is Hufflepuff's Cup?",
+      "answer": "A small golden cup with two handles that belonged to Helga Hufflepuff (became a Horcrux)",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 20",
+      "verified": true
+    },
+    {
+      "id": 863,
+      "question": "What is Ravenclaw's Diadem?",
+      "answer": "A tiara that supposedly grants wisdom to the wearer (became a Horcrux)",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 29",
+      "verified": true
+    },
+    {
+      "id": 864,
+      "question": "What is Slytherin's Locket?",
+      "answer": "A golden locket with an ornate S in green stones (became a Horcrux)",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Half-Blood Prince, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 865,
+      "question": "Who is Marvolo Gaunt?",
+      "answer": "Voldemort's maternal grandfather, descended from Salazar Slytherin",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 866,
+      "question": "Who is Merope Gaunt?",
+      "answer": "Voldemort's mother, who used a love potion on Tom Riddle Sr.",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 867,
+      "question": "Who is Morfin Gaunt?",
+      "answer": "Voldemort's uncle, framed for the murder of the Riddle family",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 17",
+      "verified": true
+    },
+    {
+      "id": 868,
+      "question": "What is Tom Riddle Sr.?",
+      "answer": "Voldemort's Muggle father",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 1",
+      "verified": true
+    },
+    {
+      "id": 869,
+      "question": "Where did Voldemort grow up?",
+      "answer": "Wool's Orphanage in London",
+      "category": "Locations",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 13",
+      "verified": true
+    },
+    {
+      "id": 870,
+      "question": "Who was the orphanage matron?",
+      "answer": "Mrs. Cole",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 13",
+      "verified": true
+    },
+    {
+      "id": 871,
+      "question": "What did young Tom Riddle do to two orphans in a cave?",
+      "answer": "He took them to the cave and did something so terrible they were never the same",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 13",
+      "verified": true
+    },
+    {
+      "id": 872,
+      "question": "What was Tom Riddle's wand made of?",
+      "answer": "Yew wood with a phoenix feather core, 13½ inches",
+      "category": "History",
+      "difficulty": "hard",
+      "source": "Philosopher's Stone, Chapter 5",
+      "verified": true
+    },
+    {
+      "id": 873,
+      "question": "Who did Voldemort kill to make the diary Horcrux?",
+      "answer": "Moaning Myrtle (Myrtle Warren)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 16",
+      "verified": true
+    },
+    {
+      "id": 874,
+      "question": "Who did Voldemort kill to make the ring Horcrux?",
+      "answer": "Tom Riddle Sr. (his father)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 17",
+      "verified": true
+    },
+    {
+      "id": 875,
+      "question": "Who did Voldemort kill to make the cup Horcrux?",
+      "answer": "Hepzibah Smith",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 20",
+      "verified": true
+    },
+    {
+      "id": 876,
+      "question": "Who did Voldemort kill to make the locket Horcrux?",
+      "answer": "A Muggle tramp",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 23",
+      "verified": true
+    },
+    {
+      "id": 877,
+      "question": "Who did Voldemort kill to make the diadem Horcrux?",
+      "answer": "An Albanian peasant",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 23",
+      "verified": true
+    },
+    {
+      "id": 878,
+      "question": "Who did Voldemort kill to make Nagini a Horcrux?",
+      "answer": "Bertha Jorkins",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Goblet of Fire, Chapter 33",
+      "verified": true
+    },
+    {
+      "id": 879,
+      "question": "What made Harry an accidental Horcrux?",
+      "answer": "Voldemort's soul split when he tried to kill baby Harry",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 35",
+      "verified": true
+    },
+    {
+      "id": 880,
+      "question": "Who destroys the diary Horcrux?",
+      "answer": "Harry Potter (with a basilisk fang)",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 17",
+      "verified": true
+    },
+    {
+      "id": 881,
+      "question": "Who destroys the ring Horcrux?",
+      "answer": "Albus Dumbledore (with Gryffindor's sword)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 23",
+      "verified": true
+    },
+    {
+      "id": 882,
+      "question": "What curse was on the ring Horcrux?",
+      "answer": "A deadly curse that would have killed Dumbledore if Snape hadn't slowed it",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 23",
+      "verified": true
+    },
+    {
+      "id": 883,
+      "question": "Who destroys Harry the Horcrux?",
+      "answer": "Voldemort (unknowingly, with Avada Kedavra)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 34",
+      "verified": true
+    },
+    {
+      "id": 884,
+      "question": "What happens to the Elder Wand?",
+      "answer": "Harry uses it to repair his own wand, then returns it to Dumbledore's tomb",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 36",
+      "verified": true
+    },
+    {
+      "id": 885,
+      "question": "What happens to the Resurrection Stone?",
+      "answer": "Harry drops it in the Forbidden Forest, where it remains lost",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 34",
+      "verified": true
+    },
+    {
+      "id": 886,
+      "question": "What house is Cho Chang in?",
+      "answer": "Ravenclaw",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 13",
+      "verified": true
+    },
+    {
+      "id": 887,
+      "question": "What house is Luna Lovegood in?",
+      "answer": "Ravenclaw",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Order of Phoenix, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 888,
+      "question": "What house is Cedric Diggory in?",
+      "answer": "Hufflepuff",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 889,
+      "question": "What house was Tonks in?",
+      "answer": "Hufflepuff",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Order of Phoenix, Chapter 3",
+      "verified": true
+    },
+    {
+      "id": 890,
+      "question": "What house was Moaning Myrtle in?",
+      "answer": "Ravenclaw",
+      "category": "Hogwarts",
+      "difficulty": "hard",
+      "source": "Chamber of Secrets, Chapter 16",
+      "verified": true
+    },
+    {
+      "id": 891,
+      "question": "What house was Gilderoy Lockhart in?",
+      "answer": "Ravenclaw",
+      "category": "Hogwarts",
+      "difficulty": "hard",
+      "source": "Pottermore reference",
+      "verified": true
+    },
+    {
+      "id": 892,
+      "question": "What house was Peter Pettigrew in?",
+      "answer": "Gryffindor",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 19",
+      "verified": true
+    },
+    {
+      "id": 893,
+      "question": "What house were James, Lily, Sirius, and Remus in?",
+      "answer": "Gryffindor",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 894,
+      "question": "What house was Snape in?",
+      "answer": "Slytherin",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Deathly Hallows, Chapter 33",
+      "verified": true
+    },
+    {
+      "id": 895,
+      "question": "What house were the Marauders in?",
+      "answer": "Gryffindor (all four)",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 896,
+      "question": "What were James Potter's Animagus form?",
+      "answer": "A stag (Prongs)",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 897,
+      "question": "What was Sirius Black's Animagus form?",
+      "answer": "A large black dog (Padfoot)",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 898,
+      "question": "What was Peter Pettigrew's Animagus form?",
+      "answer": "A rat (Wormtail, also Ron's pet Scabbers)",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 19",
+      "verified": true
+    },
+    {
+      "id": 899,
+      "question": "What creature is a Basilisk?",
+      "answer": "The King of Serpents, a giant snake that can kill with its gaze",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 16",
+      "verified": true
+    },
+    {
+      "id": 900,
+      "question": "How do you kill a Basilisk?",
+      "answer": "Destroy it with a sword through the roof of its mouth (or other means)",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 17",
+      "verified": true
+    },
+    {
+      "id": 901,
+      "question": "What is the name of the goblin who helps Harry break into Gringotts?",
+      "answer": "Griphook",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Deathly Hallows, Chapter 24",
+      "verified": true
+    },
+    {
+      "id": 902,
+      "question": "What is the proper name for a Patronus that takes a physical, animal form?",
+      "answer": "A corporeal Patronus",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 903,
+      "question": "What spell is used to summon objects?",
+      "answer": "Accio (the Summoning Charm)",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 20",
+      "verified": true
+    },
+    {
+      "id": 904,
+      "question": "What is the address of the Order of the Phoenix headquarters?",
+      "answer": "12 Grimmauld Place, London",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Order of the Phoenix, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 905,
+      "question": "What creature guards the entrance to the Gryffindor common room?",
+      "answer": "The Fat Lady (a portrait)",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 906,
+      "question": "What is the name of Hagrid's half-brother?",
+      "answer": "Grawp",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Order of the Phoenix, Chapter 30",
+      "verified": true
+    },
+    {
+      "id": 907,
+      "question": "What potion allows you to breathe underwater?",
+      "answer": "Gillyweed (technically an herb, not a potion)",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 908,
+      "question": "Who is the Ravenclaw house ghost?",
+      "answer": "The Grey Lady (Helena Ravenclaw)",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 31",
+      "verified": true
+    },
+    {
+      "id": 909,
+      "question": "What is the maximum speed of a Firebolt broomstick?",
+      "answer": "150 miles per hour",
+      "category": "Quidditch",
+      "difficulty": "hard",
+      "source": "Prisoner of Azkaban, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 910,
+      "question": "What is the name of the Weasley family's owl?",
+      "answer": "Errol",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 3",
+      "verified": true
+    },
+    {
+      "id": 911,
+      "question": "What creature pulls the Hogwarts carriages?",
+      "answer": "Thestrals (visible only to those who have witnessed death)",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Order of the Phoenix, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 912,
+      "question": "What is the name of the Slytherin house ghost?",
+      "answer": "The Bloody Baron",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 913,
+      "question": "What spell creates a shield that deflects hexes and jinxes?",
+      "answer": "Protego (the Shield Charm)",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 31",
+      "verified": true
+    },
+    {
+      "id": 914,
+      "question": "What is the name of Dumbledore's brother?",
+      "answer": "Aberforth Dumbledore",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 28",
+      "verified": true
+    },
+    {
+      "id": 915,
+      "question": "What plant is used to cure petrification?",
+      "answer": "Mandrake (its restorative draught)",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 916,
+      "question": "What is the name of Neville's toad?",
+      "answer": "Trevor",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 917,
+      "question": "What curse did Voldemort use to kill Harry's parents?",
+      "answer": "Avada Kedavra (the Killing Curse)",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 1",
+      "verified": true
+    },
+    {
+      "id": 918,
+      "question": "What is the name of the wizarding prison in Britain?",
+      "answer": "Azkaban",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 1",
+      "verified": true
+    },
+    {
+      "id": 919,
+      "question": "Who guards Azkaban prison?",
+      "answer": "Dementors (until the Ministry falls)",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 5",
+      "verified": true
+    },
+    {
+      "id": 920,
+      "question": "What is the name of the most powerful love potion?",
+      "answer": "Amortentia",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 921,
+      "question": "What position did James Potter play on the Gryffindor Quidditch team?",
+      "answer": "Chaser",
+      "category": "Quidditch",
+      "difficulty": "medium",
+      "source": "Order of the Phoenix, Chapter 28",
+      "verified": true
+    },
+    {
+      "id": 922,
+      "question": "What does the spell 'Lumos' do?",
+      "answer": "Creates light at the tip of the wand",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 923,
+      "question": "What does the spell 'Nox' do?",
+      "answer": "Extinguishes the light from Lumos",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 924,
+      "question": "What is the name of the spell that repairs broken objects?",
+      "answer": "Reparo",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 925,
+      "question": "Who is the Hufflepuff house ghost?",
+      "answer": "The Fat Friar",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 926,
+      "question": "What is the name of the potion that allows you to assume someone else's appearance?",
+      "answer": "Polyjuice Potion",
+      "category": "Potions",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 927,
+      "question": "What creature is Aragog?",
+      "answer": "An Acromantula (giant spider)",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 15",
+      "verified": true
+    },
+    {
+      "id": 928,
+      "question": "What spell unlocks doors?",
+      "answer": "Alohomora (the Unlocking Charm)",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 929,
+      "question": "What are the three Unforgivable Curses?",
+      "answer": "Avada Kedavra (Killing Curse), Crucio (Cruciatus Curse), and Imperio (Imperius Curse)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 930,
+      "question": "What is the name of Hermione's cat?",
+      "answer": "Crookshanks",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 931,
+      "question": "What magical creature is part-horse, part-eagle?",
+      "answer": "Hippogriff",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 932,
+      "question": "What is the name of Hagrid's three-headed dog?",
+      "answer": "Fluffy",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 933,
+      "question": "How do you make Fluffy fall asleep?",
+      "answer": "Play music",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 16",
+      "verified": true
+    },
+    {
+      "id": 934,
+      "question": "What spell is used to disarm an opponent?",
+      "answer": "Expelliarmus (the Disarming Charm)",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 935,
+      "question": "What is the name of the Weasley family home?",
+      "answer": "The Burrow",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 3",
+      "verified": true
+    },
+    {
+      "id": 936,
+      "question": "What creature is Dobby?",
+      "answer": "A house-elf",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 2",
+      "verified": true
+    },
+    {
+      "id": 937,
+      "question": "How do you free a house-elf from servitude?",
+      "answer": "Give them clothes",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 938,
+      "question": "What spell creates a temporary mark in the sky to show Dark wizards have been there?",
+      "answer": "Morsmordre (the Dark Mark)",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Goblet of Fire, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 939,
+      "question": "What is the name of the wizarding hospital?",
+      "answer": "St. Mungo's Hospital for Magical Maladies and Injuries",
+      "category": "Locations",
+      "difficulty": "medium",
+      "source": "Order of the Phoenix, Chapter 22",
+      "verified": true
+    },
+    {
+      "id": 940,
+      "question": "What magical object shows you your deepest desire?",
+      "answer": "The Mirror of Erised",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 941,
+      "question": "What does 'Erised' spell backwards?",
+      "answer": "Desire",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 942,
+      "question": "What potion grants good luck?",
+      "answer": "Felix Felicis (Liquid Luck)",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 943,
+      "question": "What creature is known as a 'moon-calf'?",
+      "answer": "A shy creature that only comes out during a full moon to perform complicated dances",
+      "category": "Creatures",
+      "difficulty": "hard",
+      "source": "Fantastic Beasts reference",
+      "verified": true
+    },
+    {
+      "id": 944,
+      "question": "What is the name of the wizarding sport that involves one Quaffle, two Bludgers, and one Golden Snitch?",
+      "answer": "Quidditch",
+      "category": "Quidditch",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 945,
+      "question": "How many points is the Golden Snitch worth?",
+      "answer": "150 points",
+      "category": "Quidditch",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 946,
+      "question": "What spell is used to erase memories?",
+      "answer": "Obliviate (the Memory Charm)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 16",
+      "verified": true
+    },
+    {
+      "id": 947,
+      "question": "What is the name of Voldemort's snake?",
+      "answer": "Nagini",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 1",
+      "verified": true
+    },
+    {
+      "id": 948,
+      "question": "What ability allows wizards to speak to snakes?",
+      "answer": "Parseltongue",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 11",
+      "verified": true
+    },
+    {
+      "id": 949,
+      "question": "What is the name of the pub in Hogsmeade that serves Butterbeer?",
+      "answer": "The Three Broomsticks",
+      "category": "Locations",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 950,
+      "question": "Who is the Gryffindor house ghost?",
+      "answer": "Nearly Headless Nick (Sir Nicholas de Mimsy-Porpington)",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 951,
+      "question": "What spell conjures a Patronus?",
+      "answer": "Expecto Patronum",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 952,
+      "question": "What is the only thing that can destroy a Horcrux?",
+      "answer": "Basilisk venom, Fiendfyre, or the Sword of Gryffindor (impregnated with Basilisk venom)",
+      "category": "History",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 953,
+      "question": "What is the name of the room that appears only when someone needs it?",
+      "answer": "The Room of Requirement",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "source": "Order of the Phoenix, Chapter 18",
+      "verified": true
+    },
+    {
+      "id": 954,
+      "question": "What spell levitates objects?",
+      "answer": "Wingardium Leviosa (the Levitation Charm)",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 955,
+      "question": "What is the name of the gamekeeper's hut resident in the first book?",
+      "answer": "Rubeus Hagrid",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 956,
+      "question": "What does O.W.L. stand for?",
+      "answer": "Ordinary Wizarding Level",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Order of the Phoenix, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 957,
+      "question": "What does N.E.W.T. stand for?",
+      "answer": "Nastily Exhausting Wizarding Test",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "source": "Order of the Phoenix, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 958,
+      "question": "What creature guards Gringotts' deepest vaults?",
+      "answer": "Dragons (specifically, Ukrainian Ironbellies)",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 26",
+      "verified": true
+    },
+    {
+      "id": 959,
+      "question": "What spell creates fire?",
+      "answer": "Incendio",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 31",
+      "verified": true
+    },
+    {
+      "id": 960,
+      "question": "What is the name of Draco Malfoy's mother?",
+      "answer": "Narcissa Malfoy (née Black)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 961,
+      "question": "What is the name of Draco Malfoy's father?",
+      "answer": "Lucius Malfoy",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 4",
+      "verified": true
+    },
+    {
+      "id": 962,
+      "question": "What creature can only be seen by those who have witnessed death?",
+      "answer": "Thestrals",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Order of the Phoenix, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 963,
+      "question": "What is the name of the magical map that shows Hogwarts?",
+      "answer": "The Marauder's Map",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 964,
+      "question": "What spell freezes or petrifies the target?",
+      "answer": "Petrificus Totalus (the Full Body-Bind Curse)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 16",
+      "verified": true
+    },
+    {
+      "id": 965,
+      "question": "What magical object allows you to become invisible?",
+      "answer": "An Invisibility Cloak (specifically Harry's is a Deathly Hallow)",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 966,
+      "question": "What is the name of the Elder Wand's previous master before Dumbledore?",
+      "answer": "Gellert Grindelwald",
+      "category": "History",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 24",
+      "verified": true
+    },
+    {
+      "id": 967,
+      "question": "What creature is Buckbeak?",
+      "answer": "A Hippogriff",
+      "category": "Creatures",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 968,
+      "question": "What is the proper way to approach a Hippogriff?",
+      "answer": "Bow and wait for it to bow back",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 969,
+      "question": "What spell creates a silver shield from a wand?",
+      "answer": "Protego (the Shield Charm)",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 31",
+      "verified": true
+    },
+    {
+      "id": 970,
+      "question": "What does the Fidelius Charm do?",
+      "answer": "Hides a secret within a person (the Secret-Keeper), making it impossible for others to find",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Prisoner of Azkaban, Chapter 10",
+      "verified": true
+    },
+    {
+      "id": 971,
+      "question": "What was the occupation of Harry's parents?",
+      "answer": "Members of the Order of the Phoenix (fighting Voldemort)",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Order of the Phoenix, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 972,
+      "question": "What is the name of the Weasley's family clock?",
+      "answer": "The Weasley Clock (showing family member locations, not time)",
+      "category": "History",
+      "difficulty": "hard",
+      "source": "Goblet of Fire, Chapter 5",
+      "verified": true
+    },
+    {
+      "id": 973,
+      "question": "What creature is a Boggart?",
+      "answer": "A shape-shifter that takes the form of your worst fear",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 974,
+      "question": "What spell defeats a Boggart?",
+      "answer": "Riddikulus (while thinking of something funny)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 7",
+      "verified": true
+    },
+    {
+      "id": 975,
+      "question": "What form does Harry's Patronus take?",
+      "answer": "A stag (like his father's Animagus form)",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 21",
+      "verified": true
+    },
+    {
+      "id": 976,
+      "question": "What form does Hermione's Patronus take?",
+      "answer": "An otter",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Order of the Phoenix, Chapter 27",
+      "verified": true
+    },
+    {
+      "id": 977,
+      "question": "What form does Ron's Patronus take?",
+      "answer": "A Jack Russell terrier",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 19",
+      "verified": true
+    },
+    {
+      "id": 978,
+      "question": "What form does Snape's Patronus take?",
+      "answer": "A doe (the same as Lily Potter's)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 33",
+      "verified": true
+    },
+    {
+      "id": 979,
+      "question": "What is the name of the centaur who saves Harry in the Forbidden Forest?",
+      "answer": "Firenze",
+      "category": "Characters",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 15",
+      "verified": true
+    },
+    {
+      "id": 980,
+      "question": "What creatures live in the Forbidden Forest?",
+      "answer": "Centaurs, unicorns, Acromantulas, Thestrals, and other magical creatures",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Philosopher's Stone, Chapter 15",
+      "verified": true
+    },
+    {
+      "id": 981,
+      "question": "What is Dumbledore's full name?",
+      "answer": "Albus Percival Wulfric Brian Dumbledore",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Philosopher's Stone, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 982,
+      "question": "What is the name of the Leaky Cauldron's landlord?",
+      "answer": "Tom (the barman)",
+      "category": "Characters",
+      "difficulty": "hard",
+      "source": "Philosopher's Stone, Chapter 5",
+      "verified": true
+    },
+    {
+      "id": 983,
+      "question": "What spell would you use to mend broken bones?",
+      "answer": "Episkey (though Brackium Emendo removes them entirely, as Lockhart demonstrates)",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 984,
+      "question": "What is a Squib?",
+      "answer": "A person born into a wizarding family but with no magical powers",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Chamber of Secrets, Chapter 9",
+      "verified": true
+    },
+    {
+      "id": 985,
+      "question": "Who is the Hogwarts caretaker?",
+      "answer": "Argus Filch",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 986,
+      "question": "What is the name of Filch's cat?",
+      "answer": "Mrs. Norris",
+      "category": "Characters",
+      "difficulty": "easy",
+      "source": "Philosopher's Stone, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 987,
+      "question": "What magical object tells you if someone is lying?",
+      "answer": "Probity Probe or Revealer (though Veritaserum truth serum is more powerful)",
+      "category": "History",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 8",
+      "verified": true
+    },
+    {
+      "id": 988,
+      "question": "What is the truth serum potion called?",
+      "answer": "Veritaserum",
+      "category": "Potions",
+      "difficulty": "medium",
+      "source": "Goblet of Fire, Chapter 35",
+      "verified": true
+    },
+    {
+      "id": 989,
+      "question": "What magical plant screams when uprooted?",
+      "answer": "Mandrake",
+      "category": "Potions",
+      "difficulty": "easy",
+      "source": "Chamber of Secrets, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 990,
+      "question": "What spell makes objects fly or levitate a person?",
+      "answer": "Wingardium Leviosa (for objects) or Levicorpus (to dangle people upside-down)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Half-Blood Prince, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 991,
+      "question": "What is the counter-curse to Levicorpus?",
+      "answer": "Liberacorpus",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Half-Blood Prince, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 992,
+      "question": "What creature is a Dementor's natural enemy?",
+      "answer": "Patronuses (conjured by the Patronus Charm)",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 993,
+      "question": "What does a Dementor feed on?",
+      "answer": "Happy thoughts and positive emotions",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 5",
+      "verified": true
+    },
+    {
+      "id": 994,
+      "question": "What happens when a Dementor performs the Dementor's Kiss?",
+      "answer": "It sucks out the victim's soul, leaving them alive but empty",
+      "category": "Creatures",
+      "difficulty": "medium",
+      "source": "Prisoner of Azkaban, Chapter 12",
+      "verified": true
+    },
+    {
+      "id": 995,
+      "question": "What is the name of the magical device used for time travel?",
+      "answer": "Time-Turner",
+      "category": "History",
+      "difficulty": "easy",
+      "source": "Prisoner of Azkaban, Chapter 21",
+      "verified": true
+    },
+    {
+      "id": 996,
+      "question": "What are the three Deathly Hallows?",
+      "answer": "The Elder Wand, the Resurrection Stone, and the Cloak of Invisibility",
+      "category": "History",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 21",
+      "verified": true
+    },
+    {
+      "id": 997,
+      "question": "Who was the original owner of all three Deathly Hallows at once?",
+      "answer": "Harry Potter (briefly at the end of Deathly Hallows)",
+      "category": "History",
+      "difficulty": "hard",
+      "source": "Deathly Hallows, Chapter 36",
+      "verified": true
+    },
+    {
+      "id": 998,
+      "question": "What spell did Hermione use to wipe her parents' memories?",
+      "answer": "Obliviate (the Memory Charm)",
+      "category": "Spells",
+      "difficulty": "medium",
+      "source": "Deathly Hallows, Chapter 6",
+      "verified": true
+    },
+    {
+      "id": 999,
+      "question": "What is the incantation for the Killing Curse?",
+      "answer": "Avada Kedavra",
+      "category": "Spells",
+      "difficulty": "easy",
+      "source": "Goblet of Fire, Chapter 14",
+      "verified": true
+    },
+    {
+      "id": 1000,
+      "question": "What spell or charm hides the Fidelius secret?",
+      "answer": "The Fidelius Charm",
+      "category": "Spells",
+      "difficulty": "hard",
+      "source": "Prisoner of Azkaban, Chapter 10",
+      "verified": true
     }
   ]
 }
